@@ -1,0 +1,15 @@
+[
+  {
+    "postId": "1760160133744",
+    "content": "Just deployed my first API endpoint!",
+    "author": "Hariharan",
+    "tags": [
+      "api",
+      "express",
+      "nodejs"
+    ],
+    "like": 0,
+    "status": "published",
+    "createdAt": "2025-10-11T05:22:13.744Z"
+  }
+]
